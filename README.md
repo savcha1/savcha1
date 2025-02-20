@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Some useful links:
+- DevOps
+  - Kafka basics (Nana): https://www.youtube.com/watch?v=QkdkLdMBuL0
+  - Proxy vs Non-proxy (Nana): https://www.youtube.com/watch?v=xo5V9g9joFs
+  - NGINS (Nana): https://www.youtube.com/watch?v=iInUBOVeBCc
