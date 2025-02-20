@@ -20,3 +20,7 @@ Some useful links:
   - Kafka basics (Nana): https://www.youtube.com/watch?v=QkdkLdMBuL0
   - Proxy vs Non-proxy (Nana): https://www.youtube.com/watch?v=xo5V9g9joFs
   - NGINX (Nana): https://www.youtube.com/watch?v=iInUBOVeBCc
+ 
+- Software Architecture
+  - Fundamentals of Software Architecture - A Developer's Guide (Udemy): https://www.udemy.com/course/fundamentals-of-software-architecture-a-developers-guide/
+     
