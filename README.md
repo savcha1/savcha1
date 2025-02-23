@@ -23,4 +23,9 @@ Some useful links:
  
 - Software Architecture
   - Fundamentals of Software Architecture - A Developer's Guide (Udemy): https://www.udemy.com/course/fundamentals-of-software-architecture-a-developers-guide/
+ 
+- .NET
+  - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
+ 
+  
      
