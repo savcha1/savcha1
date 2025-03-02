@@ -28,7 +28,7 @@ Some useful links:
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
 
 
-😄😄😄😄😄😄😄😄
+  
 **MAC keyboard shortcuts:**
 - Window switching:
   - Cmd + Tab: switch apps
