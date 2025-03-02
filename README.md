@@ -26,6 +26,13 @@ Some useful links:
  
 - .NET
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
- 
+
+
+😄😄😄😄😄😄😄😄
+**MAC keyboard shortcuts:**
+- Window switching:
+  - Cmd + Tab: switch apps
+  - Cmd + Accent (`): switch windows of same app
+  - Ctrl + Tab: switch tabs in the same window (for eg, to switch between multiple tabs in a Chrome window)
   
      
