@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **savcha1/savcha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some useful links:
+## Training Videos
 - DevOps
   - Kafka basics (Nana): https://www.youtube.com/watch?v=QkdkLdMBuL0
   - Proxy vs Non-proxy (Nana): https://www.youtube.com/watch?v=xo5V9g9joFs
@@ -26,10 +26,11 @@ Some useful links:
  
 - .NET
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
+  - URL Shortening: https://www.milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet
 
 
   
-**MAC keyboard shortcuts:**
+## MAC keyboard shortcuts
 - Window switching:
   - Cmd + Tab: switch apps
   - Cmd + Accent (`): switch windows of same app
