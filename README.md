@@ -26,7 +26,8 @@ Here are some ideas to get you started:
  
 - .NET
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
-  - URL Shortening: https://www.milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet
+  - URL Shortening (quick and dirty): https://www.milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet
+  - URL Shortening (detailed): https://medium.com/@sandeep4.verma/system-design-scalable-url-shortener-service-like-tinyurl-106f30f23a82
 
 
   
