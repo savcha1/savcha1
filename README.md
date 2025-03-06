@@ -23,6 +23,17 @@ Here are some ideas to get you started:
  
 - Software Architecture
   - Fundamentals of Software Architecture - A Developer's Guide (Udemy): https://www.udemy.com/course/fundamentals-of-software-architecture-a-developers-guide/
+  - Microservice - how coarse or small?: https://medium.com/@sandeep4.verma/microservices-how-coarse-or-small-a-microservice-should-be-d8b7b461d9ec
+    - Bounded context (share nothing architecture)
+    - Factors:
+      1. Service Functionality _(split)_
+      2. Code changes frequency _(split)_
+      3. Scability and throughput _(split)_
+      4. Fault Tolerance _(split)_
+      5. Data Security _(split)_
+      6. Database transactions/Data consistency _(merge)_
+      7. Dependencies between data _(merge)_
+        
  
 - .NET
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
