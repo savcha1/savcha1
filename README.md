@@ -23,6 +23,11 @@ Here are some ideas to get you started:
  
 - Software Architecture
   - Fundamentals of Software Architecture - A Developer's Guide (Udemy): https://www.udemy.com/course/fundamentals-of-software-architecture-a-developers-guide/
+    - Trade offs in choosing an arch
+      - Scability vs Simplicity
+      - Performance vs Flexibility
+      - Maintainability vs Time to Market
+      - Team expertise vs Ideal architecture
   - Microservice - how coarse or small?: https://medium.com/@sandeep4.verma/microservices-how-coarse-or-small-a-microservice-should-be-d8b7b461d9ec
     - Bounded context (share nothing architecture)
     - Factors:
