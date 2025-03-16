@@ -44,6 +44,7 @@ Here are some ideas to get you started:
   - Many things .NET: https://antondevtips.com/?utm_source=linkedin&utm_medium=social&utm_campaign=website
   - URL Shortening (quick and dirty): https://www.milanjovanovic.tech/blog/how-to-build-a-url-shortener-with-dotnet
   - URL Shortening (detailed): https://medium.com/@sandeep4.verma/system-design-scalable-url-shortener-service-like-tinyurl-106f30f23a82
+  - Dependency Injection: https://www.youtube.com/watch?v=M1jxLQu40qo
 
 
   
