@@ -24,5 +24,6 @@ https://github.com/dotnet/runtime has .editorconfig file in it, to copy+paste st
   - Cmd + Tab: switch apps
   - Cmd + Accent (`): switch windows of same app
   - Ctrl + Tab: switch tabs in the same window (for eg, to switch between multiple tabs in a Chrome window)
+- Show hidden files: Command + Shift + .
   
      
